@@ -1,0 +1,5 @@
+[general]
+import = [
+    # "~/.config/alacritty/themes/alacritty/catppuccin-frappe.toml"
+    "~/.config/alacritty/themes/my_theme.toml"
+]
